@@ -1,0 +1,24 @@
+public class Veiculos{
+
+	public static void main(String[] args){
+	
+		final int caminhao = 80;
+		final int carro = 110;
+		float distanciaPercorridacaminhao;
+		float distanciaPercorridacarro;
+		int comecoCaminhao = 0;
+		int comecoCarro = 10;
+		int tempoCarro = 100;
+		int tempoCaminhao = 100;
+    
+		distanciaPercorridacaminhao = comecocaminhao + velocidadeCaminhao * tempoCaminhao;
+	  System.out.println("O tempo que o caminhão percorreu "+distanciaPercorrida+"km foi "+resultadocaminhao+" horas.");
+		distanciaPercorridacarro = comecoCarro + (velocidadeCarro * tempoCarro);
+		System.out.println("O tempo que o carro percorreu "+distanciaPercorrida+"km foi "+resultadoCarro+" horas.");
+	
+	}
+ 
+	
+	
+
+} 
